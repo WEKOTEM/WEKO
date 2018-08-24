@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-cd KENAE
-screen -S KENAE -X kill
-screen -S KENAE ./KENAE
+cd WEKO
+screen -S WEKO -X kill
+screen -S WEKO ./WEKO
