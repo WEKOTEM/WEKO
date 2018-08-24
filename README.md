@@ -2,7 +2,7 @@
 
 ______________________
 
-`git clone https://github.com/WEKOTEM/WEKO && cd KENAE && chmod +x install.sh && ./install.sh`
+`git clone https://github.com/WEKOTEM/WEKO && cd WEKO && chmod +x install.sh && ./install.sh`
 
 
 ______________________
